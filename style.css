@@ -4,6 +4,15 @@
 
 
 button{
-    text-align: center;
+    color: red;
+    background-color: magenta;
     
+}
+
+
+
+
+#two{
+    text-align: center;
+
 }
